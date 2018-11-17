@@ -10,7 +10,7 @@ namespace Metin2
         private int obrazenia;
         private int liczbaMikstur;
         private bool czyMaLuk;
-
+        //comet
         public Ninja(string nick, int level)
         {
             this.nick = nick;
